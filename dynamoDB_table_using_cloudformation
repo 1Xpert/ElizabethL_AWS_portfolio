@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion:
+AWSTemplateFormatVersion: 2010-09-09
 Description: CloudFormation Template To Create Alfredo's Inventory DynamoDB Table
 
 Resources:
